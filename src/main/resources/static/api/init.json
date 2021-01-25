@@ -1,0 +1,40 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "web/Charts/ChartsList.html"
+  },
+  "logoInfo": {
+    "title": "LAYUI MINI",
+    "image": "images/logo.png",
+    "href": ""
+  },
+  "menuInfo": [
+  
+    {
+      "title": "",
+      "icon": "fa fa-lemon-o",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "模板管理",
+          "href": "web/Template/Templatelist.html",
+          "icon": "fa fa-dot-circle-o",
+          "target": "_self"
+        },
+        {
+          "title": "用户管理",
+          "href": "web/user/userlist.html",
+          "icon": "fa fa-adn",
+          "target": "_self"
+        },
+        {
+          "title": "权限管理",
+          "href": "web/Authority/Authoritylist.html",
+          "icon": "fa fa-dashboard",
+          "target": "_self"
+        }
+      ]
+    }
+  ]
+}
